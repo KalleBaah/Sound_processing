@@ -1,0 +1,7 @@
+# This Directory contain the ISA Electric Engine dataset for the project
+# See pdf for details, soundfiles are not uploaded to git 
+# Ignore actual data folders and files in this directory for git use
+*
+# Except for this .gitignore file
+!.gitignore
+!IDMT_ISA_ELECTRIC_ENGINE_discription.pdf
